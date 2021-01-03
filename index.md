@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Spring 2021 Development Blog
 
-I'm glad you are here. I plan to talk about ...
+This blog is an example for students of how to blog as a developer. I will blog about some of the things I develop this Spring.
+
