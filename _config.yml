@@ -4,8 +4,6 @@ email: dbailey@k12k.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog is an example for students of how to blog as a developer. I will blog about some of the things I develop this Spring.
 
-baseurl: /2021-Dev-Blog
-
 # social links
 twitter_username: tribebytes # DO NOT include the @ character, or else the build will fail!
 github_username: dnbailey # DO NOT include the @ character, or else the build will fail!
