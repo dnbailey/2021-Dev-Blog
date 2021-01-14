@@ -11,7 +11,7 @@ My name is Mr. Bailey and I teach computer science.
 <iframe src="url" title="description"></iframe>
 ```
 
-<iframe src="https://mrbailey.codes/intro-slide-deck/"></iframe>
+<iframe src="https://mrbailey.codes/intro-slide-deck/" width="600" height="300"></iframe>
 
 ## Goals
 
